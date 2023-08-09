@@ -1,16 +1,13 @@
-### Hi there 👋
+### Mike Johnson, Software Engineer
 
-<!--
-**quasitonality/quasitonality** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Links
 
-Here are some ideas to get you started:
+Nibbles & Bits: http://ec2-3-88-21-130.compute-1.amazonaws.com/
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My LinkedIn profile: https://www.linkedin.com/in/michaeljackjohnson/
+
+# Nibbles & Bits
+
+Nibbles & Bits is an interactive educational model of a 12-bit sequence, displaying controls for modifying its state as well as a view of its interpretation as a signed integer, unsigned integer, and 12-bit color value. The interface and visuals are designed to encourage students to think of binary data as a collection of physical on/off signals, rather than an abstract sequence of 1's and 0's. Playing with this model can help you (or your students) to develop an intuitive sense for fundamental concepts like data types, bitwise operations, and integer overflow.
+
+https://github.com/quasitonality/nibble-demo
