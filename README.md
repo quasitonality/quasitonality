@@ -2,8 +2,6 @@
 
 ## Links
 
-Nibbles & Bits: http://ec2-3-88-21-130.compute-1.amazonaws.com/
-
 My LinkedIn profile: https://www.linkedin.com/in/michaeljackjohnson/
 
 ## Nibbles & Bits
